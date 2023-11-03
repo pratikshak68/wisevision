@@ -24,29 +24,11 @@
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-    <style>
-        	  
 
-        </style>
 </head>
 <body>
-    <div class ="head">
-    <img src ="https://www.shahucollegelatur.org.in/headers/header1.png" style="width:100% ;height:130px;">
-    </div>
-	<!--Start Header-->
-	<header id="header" class="clearfix">
-        
-        <!-- LOGO bar -->
-       <div id="logo-bar" class="clearfix">
-           <!-- Container -->
-           <div class="conatiner">
-
-            <?php include "navbarmaster.php"; ?>
-              
-           </div>
-           <!-- Container / End -->
-       </div>
-        <!--LOGO bar / End-->
+   
+    
 
         <!-- Navigation
 ================================================== -->
@@ -497,7 +479,7 @@
     </section>
 
    
-    <?php include "bsfooter.php"; ?>
+    <?php include "newfooter.php"; ?>
 
     <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
